@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./satiraevi00persuoft_0005.png"; bbox 0 0 1685 2995; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 43 38 279 110">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 43 38 279 110">
+     <span class='ocr_line' id='line_1_1' title="bbox 43 38 279 110; baseline 0 -1"><span class='ocrx_word' id='word_1_1' title='bbox 43 38 279 110; x_wconf 47' lang='grc' dir='ltr'>466ῆῆ</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 191 205 1290 305">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 191 205 1290 305">
+     <span class='ocr_line' id='line_1_2' title="bbox 191 205 1290 305; baseline -0.005 -21"><span class='ocrx_word' id='word_1_2' title='bbox 191 213 314 284; x_wconf 45' lang='lat' dir='ltr'>A?</span> <span class='ocrx_word' id='word_1_3' title='bbox 358 205 764 305; x_wconf 56' lang='lat' dir='ltr'><strong>RERSII</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 854 205 1290 279; x_wconf 83' lang='lat' dir='ltr'>FLACCI</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 26 463 1452 540">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 26 463 1452 540">
+     <span class='ocr_line' id='line_1_3' title="bbox 26 463 1452 540; baseline -0.008 0"><span class='ocrx_word' id='word_1_5' title='bbox 26 463 1452 540; x_wconf 79' lang='lat' dir='ltr'><strong>SA&#39;TIRAEVI·</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 82 779 1401 830">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 82 779 1401 830">
+     <span class='ocr_line' id='line_1_4' title="bbox 82 779 1401 830; baseline -0.002 -1"><span class='ocrx_word' id='word_1_6' title='bbox 82 788 160 830; x_wconf 69' lang='lat' dir='ltr'>AD</span> <span class='ocrx_word' id='word_1_7' title='bbox 221 779 608 827; x_wconf 78' lang='lat' dir='ltr'>OPTIMORVM</span> <span class='ocrx_word' id='word_1_8' title='bbox 681 782 1136 825; x_wconf 81' lang='lat' dir='ltr'><strong>EXEMPLARIVM</strong></span> <span class='ocrx_word' id='word_1_9' title='bbox 1202 784 1401 826; x_wconf 81' lang='lat' dir='ltr'>FIDEM</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 491 982 981 1015">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 491 982 981 1015">
+     <span class='ocr_line' id='line_1_5' title="bbox 491 982 981 1015; baseline -0.006 0"><span class='ocrx_word' id='word_1_10' title='bbox 491 982 981 1015; x_wconf 77' lang='lat' dir='ltr'><strong>RECENSITAE</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_6' title="bbox 256 1279 1227 1322">
+    <p class='ocr_par' dir='ltr' id='par_1_6' title="bbox 256 1279 1227 1322">
+     <span class='ocr_line' id='line_1_6' title="bbox 256 1279 1227 1322; baseline -0.003 -1"><span class='ocrx_word' id='word_1_11' title='bbox 256 1283 556 1322; x_wconf 61' lang='lat' dir='ltr'>PROOEMIO</span> <span class='ocrx_word' id='word_1_12' title='bbox 618 1282 694 1320; x_wconf 79' lang='lat' dir='ltr'>ET</span> <span class='ocrx_word' id='word_1_13' title='bbox 755 1280 962 1320; x_wconf 77' lang='lat' dir='ltr'>INDICE</span> <span class='ocrx_word' id='word_1_14' title='bbox 1021 1279 1227 1319; x_wconf 74' lang='lat' dir='ltr'>RERVM</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_7' title="bbox 561 1472 919 1501">
+    <p class='ocr_par' dir='ltr' id='par_1_7' title="bbox 561 1472 919 1501">
+     <span class='ocr_line' id='line_1_7' title="bbox 561 1472 919 1501; baseline -0.006 0"><span class='ocrx_word' id='word_1_15' title='bbox 561 1472 919 1501; x_wconf 68' lang='lat' dir='ltr'><strong>INSTRVCTAE.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_8' title="bbox 186 1966 1526 2262">
+    <p class='ocr_par' dir='ltr' id='par_1_8' title="bbox 186 1966 1526 2262">
+     <span class='ocr_line' id='line_1_8' title="bbox 186 1966 1497 2056; baseline 0 -44"><span class='ocrx_word' id='word_1_16' title='bbox 186 1975 207 2012; x_wconf 71' lang='lat' dir='ltr'>s</span> <span class='ocrx_word' id='word_1_17' title='bbox 383 1970 404 2019; x_wconf 77' lang='lat'>1</span> <span class='ocrx_word' id='word_1_18' title='bbox 590 1966 1497 2056; x_wconf 38' lang='lat' dir='ltr'>KOENIG-OQ...</span> 
+     </span>
+     <span class='ocr_line' id='line_1_9' title="bbox 1191 2045 1526 2221; baseline -0.006 -46"><span class='ocrx_word' id='word_1_19' title='bbox 1191 2045 1526 2221; x_wconf 23' lang='lat' dir='ltr'>*Q*</span> 
+     </span>
+     <span class='ocr_line' id='line_1_10' title="bbox 1257 2188 1379 2262; baseline -0.016 -28"><span class='ocrx_word' id='word_1_20' title='bbox 1257 2188 1379 2262; x_wconf 47' lang='lat'>333.</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_9' title="bbox 387 2592 1111 2657">
+    <p class='ocr_par' dir='ltr' id='par_1_9' title="bbox 387 2592 1111 2657">
+     <span class='ocr_line' id='line_1_11' title="bbox 387 2592 1111 2657; baseline -0.011 -4"><span class='ocrx_word' id='word_1_21' title='bbox 387 2592 818 2657; x_wconf 59' lang='lat' dir='ltr'>GOTTINGAEJ.</span> <span class='ocrx_word' id='word_1_22' title='bbox 890 2620 1111 2650; x_wconf 71' lang='lat' dir='ltr'>mocccnx.</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_10' title="bbox 194 2708 1311 2754">
+    <p class='ocr_par' dir='ltr' id='par_1_10' title="bbox 194 2708 1311 2754">
+     <span class='ocr_line' id='line_1_12' title="bbox 194 2708 1311 2754; baseline -0.011 -3"><span class='ocrx_word' id='word_1_23' title='bbox 194 2723 512 2754; x_wconf 54' lang='lat' dir='ltr'>SvM‘rlnvz</span> <span class='ocrx_word' id='word_1_24' title='bbox 584 2719 863 2751; x_wconf 66' lang='lat' dir='ltr'>HENRIGI</span> <span class='ocrx_word' id='word_1_25' title='bbox 934 2708 1311 2745; x_wconf 75' lang='lat' dir='ltr'>DIETERIGH.</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
